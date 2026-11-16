@@ -1,0 +1,42 @@
+{
+  "assets/duolingo.png": {
+    "origin": "https://blog.duolingo.com/product-highlights/",
+    "description": "Duolingo 실제 앱 예시",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/printpigeon.png": {
+    "origin": "https://lovable.dev/en/blog/2025-01-17-from-idea-to-impact-yannis-journey-with-lovable",
+    "description": "PrintPigeon 서비스 예시",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/kolibri.png": {
+    "origin": "https://github.com/learningequality/kolibri-docs/blob/develop/docs/coach/learners.rst",
+    "description": "Kolibri 교사용 진도 화면 · Learning Equality · CC BY-SA 4.0",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/hallmark.png": {
+    "origin": "https://www.usehallmark.com/",
+    "description": "Hallmark 예시",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/medusa.png": {
+    "origin": "https://docs.medusajs.com/user-guide",
+    "description": "Medusa 공식 Admin 화면",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/fingpt.png": {
+    "origin": "https://raw.githubusercontent.com/AI4Finance-Foundation/FinGPT/master/fingpt/FinGPT_Forecaster/figs/interface.png",
+    "description": "FinGPT Forecaster 공식 예시 화면",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/monai.jpg": {
+    "origin": "https://monai.readthedocs.io/projects/label/en/latest/",
+    "description": "관련 프로젝트 MONAI Label의 공식 앱·뷰어 예시",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  },
+  "assets/fixmystreet.jpg": {
+    "origin": "https://fixmystreet.org/blog/",
+    "description": "FixMyStreet 공식 문제 유형 선택 화면",
+    "provenance": "Preserved from the user-provided goorm v3 lecture source (2026-11-16). Rights remain with the original owner; no new license granted."
+  }
+}

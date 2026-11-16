@@ -1,0 +1,16 @@
+﻿공급사,모델,입력 USD/1M,출력 USD/1M,캐시 입력 USD/1M,조건
+OpenAI,GPT-6 Luna,0.1,0.5,0.01,
+OpenAI,GPT-6.1 Terra,1,5,0.05,
+OpenAI,GPT-6.1 Sol,2,10,0.1,272K 초과 장문 조건 별도
+OpenAI,GPT-6 Astra,10,50,1,
+Anthropic,Haiku 5.5,0.1,0.5,0.01,입력 100K 이하
+Anthropic,Sonnet 5.5,2,10,0.1,
+Anthropic,Opus 5.5,4,20,0.2,
+Anthropic,Fable 5.2,8,40,0.2,
+Google,Gemini 4 Hydrogen,1.5,7.5,0.075,암묵적 캐시
+Google,Gemini 4 Carbon,2,10,0.1,11/30까지 프로모션
+Google,Gemini 3.8 Flash,0.75,3.75,0.075,12/31까지 프로모션
+Google,Gemini 3.5 Flash-Lite,0.3,2.5,0.03,
+Mistral,Mistral Large 4,0.7,2.1,0.07,Standard
+DeepSeek,DeepSeek Flash,0.15,0.6,0.003,비혼잡·캐시 미스 기준
+DeepSeek,DeepSeek V4 Pro,0.66,1.98,0.022,비혼잡·캐시 미스 기준
