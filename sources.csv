@@ -1,77 +1,51 @@
 ﻿ID,출처,URL,확인일
-mistral,Mistral · 공식 API 가격,https://docs.mistral.ai/inference/pricing,2026-11-14
-realtime,OpenAI · Realtime 2.1 mini,https://developers.openai.com/api/docs/models/gpt-realtime-2.1-mini,2026-11-14
-hallmark,Hallmark · 공식 저장소,https://github.com/nutlope/hallmark,2026-11-16
-impeccable,Impeccable · 공식 저장소,https://github.com/pbakaus/impeccable,2026-11-16
-rea,REA · Reverse Engineer Anything,https://github.com/morluto/rea,2026-11-16
-nng,Nielsen Norman Group · 사용성 휴리스틱,https://www.nngroup.com/articles/ten-usability-heuristics/,2026-11-14
-wcag,W3C · WCAG 2.2,https://www.w3.org/WAI/WCAG22/quickref/,2026-11-14
-vitals,Google · Core Web Vitals,https://web.dev/articles/vitals,2026-11-14
-duo,Duolingo · AI 대화 설계,https://blog.duolingo.com/ai-and-video-call/,2026-11-14
-duoux,Duolingo · 2025 제품 개선,https://blog.duolingo.com/product-highlights/,2026-11-14
-fin,Intercom · Fin 제품 구조,https://www.intercom.com/help/en/articles/7120684-fin-ai-agent-explained,2026-11-14
-handoff,Intercom · 담당자 이관 규칙,https://www.intercom.com/help/en/articles/12396892-manage-fin-ai-agent-s-escalation-guidance-and-rules,2026-11-14
-print,Lovable · PrintPigeon 인터뷰,https://lovable.dev/en/blog/2025-01-17-from-idea-to-impact-yannis-journey-with-lovable,2026-11-14
-back,Lovable · Backchannel 인터뷰,https://lovable.dev/en/blog/from-recruitment-to-innovation-backchannel,2026-11-14
-replit,Replit · 데이터 삭제 및 개선 설명,https://ld.replit.com/blog/doubling-down-on-our-commitment-to-secure-vibe-coding,2026-11-14
-gov,GOV.UK · 오류 요약 컴포넌트,https://design-system.service.gov.uk/components/error-summary/,2026-11-14
-stripe,Stripe · 멱등 요청,https://docs.stripe.com/api/idempotent_requests,2026-11-14
-playwright,Playwright · Trace Viewer,https://playwright.dev/docs/trace-viewer,2026-11-14
-promptfoo,Promptfoo · 공식 저장소,https://github.com/promptfoo/promptfoo,2026-11-14
-langfuse,Langfuse · 공식 저장소,https://github.com/langfuse/langfuse,2026-11-14
-owasp,OWASP · 현행 2026 LLM Top 10,https://github.com/GenAI-Security-Project/GenAI-LLM-Top10,2026-11-14
-mcp,MCP · 2026-07-28 명세,https://modelcontextprotocol.io/specification/2026-07-28,2026-11-14
-skills,Agent Skills · 명세,https://agentskills.io/specification,2026-11-14
-openai,OpenAI · 공식 API 가격,https://developers.openai.com/api/docs/pricing,2026-11-14
-sol,OpenAI · GPT-6.1 Sol 모델 조건,https://developers.openai.com/api/docs/models/gpt-6.1-sol,2026-11-14
-claude,Anthropic · 공식 API 가격,https://platform.claude.com/docs/en/about-claude/pricing,2026-11-14
-gemini,Google · Gemini 공식 가격,https://aistudio.google.com/docs/pricing,2026-11-14
-deepseek,DeepSeek · 공식 API 가격,https://api-docs.deepseek.com/quick_start/pricing/,2026-11-14
-apple,Apple · Foundation Models,https://developer.apple.com/foundation-models-framework,2026-11-14
-appleready,Apple · 모델 준비 상태,https://developer.apple.com/documentation/foundationmodels/generating-content-and-performing-tasks-with-foundation-models,2026-11-14
-applespeech,Apple · 기기 내 음성 인식 조건,https://developer.apple.com/documentation/speech/sfspeechrecognitionrequest/requiresondevicerecognition,2026-11-14
-applefree,Apple · 기기 내 모델 소개,https://developer.apple.com/videos/play/wwdc2025/360/,2026-11-14
-android,Google · ML Kit GenAI,https://developers.google.com/ml-kit/genai,2026-11-14
-nano,Android · Gemini Nano,https://developer.android.com/ai/gemini-nano,2026-11-14
-kolibri,Kolibri · 오프라인 교육,https://github.com/learningequality/kolibri,2026-11-16
-storm,STORM · 근거 포함 연구 보고서,https://github.com/stanford-oval/storm,2026-11-14
-monai,MONAI · 의료영상 AI,https://github.com/Project-MONAI/MONAI,2026-11-16
-fingpt,FinGPT · 금융 언어모델,https://github.com/AI4Finance-Foundation/FinGPT,2026-11-16
-markitdown,Microsoft · MarkItDown,https://github.com/microsoft/markitdown,2026-11-14
-saas,Next.js · SaaS Starter,https://github.com/nextjs/saas-starter,2026-11-14
-fixlicense,FixMyStreet · AGPL-3.0-or-later 라이선스,https://github.com/mysociety/fixmystreet/blob/master/LICENSE.txt,2026-11-14
-fix,mySociety · FixMyStreet,https://github.com/mysociety/fixmystreet,2026-11-16
-crawl,Crawl4AI · 공식 저장소,https://github.com/unclecode/crawl4ai,2026-11-14
-comic,KC Green · On Fire 원작,https://gunshowcomic.com/648,2026-11-14
-xkcd,xkcd · Dependency,https://xkcd.com/2347/,2026-11-14
-hallmarkimg,Hallmark 공식 예시 이미지,https://raw.githubusercontent.com/Nutlope/hallmark/main/site/OG-hallmark.png,2026-11-14
-duoimg,Duolingo 공식 UX 이미지,https://blog.duolingo.com/product-highlights/,2026-11-14
-printimg,PrintPigeon 공식 인터뷰 이미지,https://assets.lovable.dev/content/news/print-pigeon-hero.png,2026-11-14
-imprelease,Impeccable Skill 4.9.0 · 계정 업로드 안내,https://github.com/pbakaus/impeccable/releases/tag/skill-v4.9.0,2026-11-14
-imphealth,Impeccable CLI 4.9.0 · health 기본값,https://github.com/pbakaus/impeccable/blob/cli-v4.9.0/crates/account/src/health.rs,2026-11-14
-impdesign,Impeccable CLI 4.9.0 · DESIGN.md 동기화,https://github.com/pbakaus/impeccable/blob/cli-v4.9.0/crates/account/src/design.rs,2026-11-14
-impcritique,Impeccable CLI 4.9.0 · critique 동기화,https://github.com/pbakaus/impeccable/blob/cli-v4.9.0/crates/account/src/critiques.rs,2026-11-14
-imptelemetry,Impeccable CLI 4.9.0 · telemetry opt-out,https://github.com/pbakaus/impeccable/blob/cli-v4.9.0/crates/context/src/telemetry.rs,2026-11-14
-appleavailable,Apple · 모델 가용성·대체 UI,https://developer.apple.com/documentation/foundationmodels/generating-content-and-performing-tasks-with-foundation-models,2026-11-14
-mlimage,ML Kit · 사진 설명 상태·언어 제한,https://developers.google.com/ml-kit/genai/image-description/android,2026-11-14
-gstack,gstack · 공식 README,https://github.com/garrytan/gstack,2026-11-16
-gstacklicense,gstack · MIT,https://github.com/garrytan/gstack/blob/main/LICENSE,2026-11-16
-hallmarkrules,Hallmark · 디자인 규칙 원문,https://github.com/Nutlope/hallmark/blob/main/skills/hallmark/SKILL.md,2026-11-16
-hallmarklicense,Hallmark · MIT,https://github.com/Nutlope/hallmark/blob/main/LICENSE,2026-11-16
-impcritdoc,Impeccable · critique,https://impeccable.style/docs/critique/,2026-11-16
-impauditdoc,Impeccable · audit,https://impeccable.style/docs/audit/,2026-11-16
-implicense,Impeccable · Apache-2.0,https://github.com/pbakaus/impeccable/blob/main/LICENSE,2026-11-16
-realicense,REA 후보 · MIT,https://github.com/morluto/rea/blob/main/LICENSE,2026-11-16
-fingptscreen,FinGPT · Forecaster 공식 화면,https://raw.githubusercontent.com/AI4Finance-Foundation/FinGPT/master/fingpt/FinGPT_Forecaster/figs/interface.png,2026-11-16
-fingptdemo,FinGPT · 공개 데모 상태 확인,https://huggingface.co/spaces/FinGPT/FinGPT-Forecaster,2026-11-16
-fingptlicense,FinGPT · MIT,https://github.com/AI4Finance-Foundation/FinGPT/blob/master/LICENSE,2026-11-16
-monailabel,MONAI Label · 공식 워크플로·뷰어,https://monai.readthedocs.io/projects/label/en/latest/,2026-11-16
-monailicense,MONAI · Apache-2.0,https://github.com/Project-MONAI/MONAI/blob/dev/LICENSE,2026-11-16
-kolibriscreen,Kolibri · 공식 제품 흐름,https://github.com/learningequality/kolibri-docs/blob/develop/docs/coach/learners.rst,2026-11-16
-kolibrilicense,Kolibri · MIT,https://github.com/learningequality/kolibri/blob/develop/LICENSE,2026-11-16
-medusa,Medusa · 공식 저장소,https://github.com/medusajs/medusa,2026-11-16
-medusascreen,Medusa · Admin 공식 가이드,https://docs.medusajs.com/user-guide,2026-11-16
-medusalicense,Medusa · 코어 라이선스,https://github.com/medusajs/medusa/blob/develop/LICENSE,2026-11-16
-medusaenterprise,Medusa · Enterprise 상업 조건,https://github.com/medusajs/medusa/blob/develop/ENTERPRISE-LICENSE.md,2026-11-16
-fixscreen,FixMyStreet · 공식 제품 업데이트,https://fixmystreet.org/blog/,2026-11-16
-fixflow,FixMyStreet · 신고 처리 흐름,https://fixmystreet.org/how-it-works/,2026-11-16
+better-auth/better-auth,better-auth/better-auth,https://github.com/better-auth/better-auth,2026-11-17
+medusajs/medusa,medusajs/medusa,https://github.com/medusajs/medusa,2026-11-17
+medplum/medplum,medplum/medplum,https://github.com/medplum/medplum,2026-11-17
+learningequality/kolibri,learningequality/kolibri,https://github.com/learningequality/kolibri,2026-11-17
+mysociety/fixmystreet,mysociety/fixmystreet,https://github.com/mysociety/fixmystreet,2026-11-17
+polarsource/polar,polarsource/polar,https://github.com/polarsource/polar,2026-11-17
+triggerdotdev/trigger.dev,triggerdotdev/trigger.dev,https://github.com/triggerdotdev/trigger.dev,2026-11-17
+temporalio/temporal,temporalio/temporal,https://github.com/temporalio/temporal,2026-11-17
+microsoft/playwright,microsoft/playwright,https://github.com/microsoft/playwright,2026-11-17
+langfuse/langfuse,langfuse/langfuse,https://github.com/langfuse/langfuse,2026-11-17
+promptfoo/promptfoo,promptfoo/promptfoo,https://github.com/promptfoo/promptfoo,2026-11-17
+morluto/rea,morluto/rea,https://github.com/morluto/rea,2026-11-17
+higgsfield-ai/higgsfield-js,higgsfield-ai/higgsfield-js,https://github.com/higgsfield-ai/higgsfield-js,2026-11-17
+higgsfield-ai/skills,higgsfield-ai/skills,https://github.com/higgsfield-ai/skills,2026-11-17
+creatify-ai/video-ad-generator,creatify-ai/video-ad-generator,https://github.com/creatify-ai/video-ad-generator,2026-11-17
+anthropics/claude-agent-sdk-python,anthropics/claude-agent-sdk-python,https://github.com/anthropics/claude-agent-sdk-python,2026-11-17
+openai/openai-agents-python,openai/openai-agents-python,https://github.com/openai/openai-agents-python,2026-11-17
+vendurehq/vendure,vendurehq/vendure,https://github.com/vendurehq/vendure,2026-11-17
+blader/humanizer,blader/humanizer,https://github.com/blader/humanizer,2026-11-17
+pbakaus/impeccable,pbakaus/impeccable,https://github.com/pbakaus/impeccable,2026-11-17
+nutlope/hallmark,Nutlope/hallmark,https://github.com/Nutlope/hallmark,2026-11-17
+ibelick/ui-skills,ibelick/ui-skills,https://github.com/ibelick/ui-skills,2026-11-17
+microsoft/playwright-mcp,microsoft/playwright-mcp,https://github.com/microsoft/playwright-mcp,2026-11-17
+stripe/ai,stripe/ai,https://github.com/stripe/ai,2026-11-17
+jd,Shopify / Product Management JD,https://www.shopify.com/careers/product-management_a69fc195-de20-42f5-868d-2cf7d7182836,2026-11-17
+creatify-ui,Creatify / URL to Video,https://app.creatify.ai/tool/link-to-video?classic=true,2026-11-17
+creatify-agent,Creatify / Ad Agent,https://app.creatify.ai/ad-agent,2026-11-17
+creatify-guide,Creatify / URL to Video 도움말,https://help.creatify.ai/en/articles/12435455-url-to-video,2026-11-17
+higgs-mcp,Higgsfield / MCP 연결 가이드,https://higgsfield.ai/enterprise-help-center/platform/integrations,2026-11-17
+higgs-api,Higgsfield / API와 과금·보관 정책,https://higgsfield.ai/creator-hub/help-center/integrations/what-is-the-higgsfield-api,2026-11-17
+higgs-credits,Higgsfield / MCP와 웹의 차이,https://higgsfield.ai/creator-hub/help-center/integrations/what-is-higgsfield-mcp,2026-11-17
+higgs-ui,Higgsfield / MCP 공개 화면,https://higgsfield.ai/ko/mcp,2026-11-17
+higgs-ugc,Higgsfield / Product review UGC,https://higgsfield.ai/ko/mcp/ugc-flow?tab=claude,2026-11-17
+auth-security,Better Auth / Security,https://www.better-auth.com/docs/reference/security,2026-11-17
+auth-org,Better Auth / Organization,https://www.better-auth.com/docs/plugins/organization,2026-11-17
+stripe-hooks,Stripe / Webhooks,https://docs.stripe.com/webhooks,2026-11-17
+stripe-idem,Stripe / Idempotent requests,https://docs.stripe.com/api/idempotent_requests,2026-11-17
+stripe-checkout,Stripe / Checkout fulfillment,https://docs.stripe.com/checkout/fulfillment,2026-11-17
+stripe-mcp,Stripe / MCP,https://docs.stripe.com/mcp,2026-11-17
+polar-usage,Polar / Usage-based billing,https://polar.sh/features/usage-billing,2026-11-17
+trigger-idem,Trigger.dev / Idempotency,https://trigger.dev/docs/idempotency,2026-11-17
+trigger-queue,Trigger.dev / Concurrency and queues,https://trigger.dev/product/concurrency-and-queues,2026-11-17
+breaker,Microsoft / Circuit Breaker pattern,https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker,2026-11-17
+humanizer-release,Humanizer / v4.0.0 릴리스,https://github.com/blader/humanizer/releases/tag/v4.0.0,2026-11-17
+impeccable-copy,Impeccable / Clarify,https://github.com/pbakaus/impeccable/blob/main/plugin/skills/impeccable/reference/clarify.md,2026-11-17
+medusa-license,Medusa / License,https://github.com/medusajs/medusa/blob/develop/LICENSE,2026-11-17
+vendure-license,Vendure / License,https://github.com/vendurehq/vendure/blob/master/LICENSE.md,2026-11-17
+langfuse-license,Langfuse / License,https://github.com/langfuse/langfuse/blob/main/LICENSE,2026-11-17
+fix-license,FixMyStreet / License,https://github.com/mysociety/fixmystreet/blob/master/LICENSE.txt,2026-11-17
+playwright-tests,Playwright / Best practices,https://playwright.dev/docs/best-practices,2026-11-17

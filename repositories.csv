@@ -1,0 +1,25 @@
+﻿Repository,Stars,유형·용도,라이선스 검토,License API,최근 push UTC,Archived,확인일,URL
+better-auth/better-auth,30760,인증·조직 프레임워크,MIT,MIT,2026-11-16T21:15:57Z,False,2026-11-17 Asia/Seoul,https://github.com/better-auth/better-auth
+medusajs/medusa,37278,커머스 백엔드·업무 워크플로,MIT (Enterprise Edition 별도),NOASSERTION,2026-11-16T16:54:56Z,False,2026-11-17 Asia/Seoul,https://github.com/medusajs/medusa
+medplum/medplum,2798,의료 FHIR·업무 워크플로,Apache-2.0,Apache-2.0,2026-11-16T22:39:57Z,False,2026-11-17 Asia/Seoul,https://github.com/medplum/medplum
+learningequality/kolibri,1176,오프라인 교육·진도 동기화,MIT,MIT,2026-11-11T23:48:03Z,False,2026-11-17 Asia/Seoul,https://github.com/learningequality/kolibri
+mysociety/fixmystreet,625,위치 기반 민원·처리 상태,기본 AGPL-3.0-or-later; 파일별 예외 확인,NOASSERTION,2026-11-16T16:09:14Z,False,2026-11-17 Asia/Seoul,https://github.com/mysociety/fixmystreet
+polarsource/polar,10490,디지털 제품 결제·사용량,Apache-2.0,Apache-2.0,2026-11-16T21:29:42Z,False,2026-11-17 Asia/Seoul,https://github.com/polarsource/polar
+triggerdotdev/trigger.dev,16774,비동기 작업·큐·재시도,Apache-2.0,Apache-2.0,2026-11-16T19:42:46Z,False,2026-11-17 Asia/Seoul,https://github.com/triggerdotdev/trigger.dev
+temporalio/temporal,24441,장기 실행 워크플로,MIT,MIT,2026-11-16T22:40:02Z,False,2026-11-17 Asia/Seoul,https://github.com/temporalio/temporal
+microsoft/playwright,100348,브라우저 테스트,Apache-2.0,Apache-2.0,2026-11-16T22:38:44Z,False,2026-11-17 Asia/Seoul,https://github.com/microsoft/playwright
+langfuse/langfuse,37503,LLM 관측·비용·평가,MIT (EE 디렉터리 별도),NOASSERTION,2026-11-16T22:01:09Z,False,2026-11-17 Asia/Seoul,https://github.com/langfuse/langfuse
+promptfoo/promptfoo,27327,프롬프트·모델 평가,MIT,MIT,2026-11-16T21:39:46Z,False,2026-11-17 Asia/Seoul,https://github.com/promptfoo/promptfoo
+morluto/rea,464011,역공학 조사 에이전트 도구,MIT,MIT,2026-11-16T22:31:13Z,False,2026-11-17 Asia/Seoul,https://github.com/morluto/rea
+higgsfield-ai/higgsfield-js,77,이미지·영상 API SDK,미확인; 도입 전 원문 확인,unverified,2026-11-12T16:06:16Z,False,2026-11-17 Asia/Seoul,https://github.com/higgsfield-ai/higgsfield-js
+higgsfield-ai/skills,2000,공식 제작 Skills,MIT,MIT,2026-11-05T01:43:26Z,False,2026-11-17 Asia/Seoul,https://github.com/higgsfield-ai/skills
+creatify-ai/video-ad-generator,72,광고 기획·제작 Skill + API,MIT,MIT,2026-03-03T20:36:57Z,False,2026-11-17 Asia/Seoul,https://github.com/creatify-ai/video-ad-generator
+anthropics/claude-agent-sdk-python,8564,Claude 기반 에이전트 구현 SDK,MIT,MIT,2026-11-16T22:11:39Z,False,2026-11-17 Asia/Seoul,https://github.com/anthropics/claude-agent-sdk-python
+openai/openai-agents-python,30719,에이전트 구현 SDK,MIT,MIT,2026-11-16T20:47:06Z,False,2026-11-17 Asia/Seoul,https://github.com/openai/openai-agents-python
+vendurehq/vendure,8598,헤드리스 커머스·주문 상태,GPLv3 계열 또는 Vendure Commercial License,NOASSERTION,2026-11-16T16:04:33Z,False,2026-11-17 Asia/Seoul,https://github.com/vendurehq/vendure
+blader/humanizer,69888,문장 편집 Skill,MIT,MIT,2026-11-10T01:35:15Z,False,2026-11-17 Asia/Seoul,https://github.com/blader/humanizer
+pbakaus/impeccable,111349,UI·UX Writing·디자인 검토 Skill,Apache-2.0,Apache-2.0,2026-11-16T22:43:11Z,False,2026-11-17 Asia/Seoul,https://github.com/pbakaus/impeccable
+Nutlope/hallmark,56089,웹 디자인 구성·린트 Skill,MIT,MIT,2026-11-11T11:56:16Z,False,2026-11-17 Asia/Seoul,https://github.com/Nutlope/hallmark
+ibelick/ui-skills,11125,디자인 Skills 레지스트리·MCP,MIT,MIT,2026-11-14T08:35:12Z,False,2026-11-17 Asia/Seoul,https://github.com/ibelick/ui-skills
+microsoft/playwright-mcp,39748,에이전트 브라우저 연결 MCP,Apache-2.0,Apache-2.0,2026-11-16T21:35:53Z,False,2026-11-17 Asia/Seoul,https://github.com/microsoft/playwright-mcp
+stripe/ai,2068,결제 개발 공식 Skills·플러그인,MIT,MIT,2026-11-16T00:36:51Z,False,2026-11-17 Asia/Seoul,https://github.com/stripe/ai

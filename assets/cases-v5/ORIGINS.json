@@ -1,0 +1,34 @@
+[
+  {
+    "file": "creatify-url.jpg",
+    "source": "https://app.creatify.ai/tool/link-to-video?classic=true",
+    "captured": "2026-11-17 Asia/Seoul",
+    "type": "public UI capture",
+    "rights": "Original service and asset owners",
+    "note": "No paid generation or account connection performed"
+  },
+  {
+    "file": "creatify-agent.jpg",
+    "source": "https://app.creatify.ai/ad-agent",
+    "captured": "2026-11-17 Asia/Seoul",
+    "type": "public UI capture",
+    "rights": "Original service and asset owners",
+    "note": "No paid generation or account connection performed"
+  },
+  {
+    "file": "higgsfield-mcp.jpg",
+    "source": "https://higgsfield.ai/ko/mcp",
+    "captured": "2026-11-17 Asia/Seoul",
+    "type": "public UI capture",
+    "rights": "Original service and asset owners",
+    "note": "No paid generation or account connection performed"
+  },
+  {
+    "file": "higgsfield-ugc.jpg",
+    "source": "https://higgsfield.ai/ko/mcp/ugc-flow?tab=claude",
+    "captured": "2026-11-17 Asia/Seoul",
+    "type": "public UI capture",
+    "rights": "Original service and asset owners",
+    "note": "No paid generation or account connection performed"
+  }
+]
