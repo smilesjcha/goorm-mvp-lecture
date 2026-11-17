@@ -1,0 +1,50 @@
+[
+  {
+    "file": "impeccable-clarify.jpg",
+    "source": "https://impeccable.style/",
+    "repository": "pbakaus/impeccable",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Official clarify comparison demo; browser capture cropped to the example region."
+  },
+  {
+    "file": "medusa-admin.jpg",
+    "source": "https://medusajs.com/admin",
+    "repository": "medusajs/medusa",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Official Admin product illustration; full browser viewport capture."
+  },
+  {
+    "file": "medplum-provider.jpg",
+    "source": "https://medplum.com/",
+    "repository": "medplum/medplum",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Official Provider App example; public marketing example, not private account data."
+  },
+  {
+    "file": "trigger-trace.jpg",
+    "source": "https://trigger.dev/product/observability-and-monitoring",
+    "repository": "triggerdotdev/trigger.dev",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Official task trace illustration; public product page."
+  },
+  {
+    "file": "playwright-trace.jpg",
+    "source": "https://playwright.dev/docs/trace-viewer",
+    "repository": "microsoft/playwright",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Official TodoMVC trace opened via the demo URL linked in the docs; no Seller Studio tests executed."
+  },
+  {
+    "file": "humanizer-readme.jpg",
+    "source": "https://github.com/blader/humanizer#humanizer",
+    "repository": "blader/humanizer",
+    "captured": "2026-11-17 Asia/Seoul",
+    "rights": "Original project and asset owners",
+    "note": "Public README before/after excerpt; cropped browser capture, not a newly executed rewrite."
+  }
+]

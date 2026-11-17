@@ -7,7 +7,7 @@ MVP, 그다음 / v5 / 2026.11.17
 
 02. 차성재
 시작
-현재 무신사 Core AI PM으로 Agent Chat, GEO, 모두의AI 서비스를 담당합니다. 아주대 AI대학원에서는 MLOps와 LLMOps를, 서울시립대 스마트시티대학원에서는 DataAnalysis와 ML을 강의합니다. 오늘 소개하는 사례는 특정 회사의 내부 구현을 공개하는 내용이 아닌 교육용 설계입니다.
+AI Engineer 출신 AI PM으로 금융, 의료, 교육, 이커머스 산업에서 일해 왔습니다. 현재 무신사 Core AI PM으로 Agent Chat, GEO, 모두의AI 서비스를 담당합니다. 아주대 AI대학원에서는 MLOps와 LLMOps를, 서울시립대 스마트시티대학원에서는 DataAnalysis와 ML을 강의합니다. 오늘 소개하는 사례는 특정 회사의 내부 구현을 공개하는 내용이 아닌 교육용 설계입니다.
 
 03. Contents
 목차
